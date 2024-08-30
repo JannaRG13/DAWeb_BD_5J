@@ -6,3 +6,9 @@ Material de apoyo para DAWeb con conectividad a base de datos
 
 ## CodePen
 - Link https://codepen.io/
+
+## MCLIBRE - MATERIAL CURRICULAR LIBRE
+- Link https://www.mclibre.org/
+
+## W3Schools Online Web Tutorials
+- https://www.w3schools.com/
